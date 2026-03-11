@@ -1,9 +1,6 @@
-<h1 align="center">SIMPLE MERN 🚀</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h1 align="center">SIMPLE MERN </h1>
 
 
-About This Course:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 -   🔥 Build an API
